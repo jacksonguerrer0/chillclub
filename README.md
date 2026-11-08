@@ -5,4 +5,3 @@ Aplicación Android que simula la inscripción a una degustación de granizados 
 | Presentación | Inscripción | Aceptación |
 | --- | --- | --- |
 | ![Pantalla de presentación](preview-1.png) | ![Formulario de inscripción](preview-2.png) | ![Resumen de aceptación](preview-3.png) |
-# chillclub
