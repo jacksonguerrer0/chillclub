@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ChillClub</string>
+    <string name="brand">THE CHILL  /  CHILLCLUB</string>
+    <string name="title">Degustación de granizados</string>
+    <string name="intro">Elige dónde quieres probar el próximo sabor de The Chill.</string>
+    <string name="start">Inscribirme</string>
+    <string name="form_title">Tu inscripción</string>
+    <string name="form_copy">Completa tus datos y elige el punto de degustación.</string>
+    <string name="name">Nombre</string>
+    <string name="name_hint">¿Cómo te llamas?</string>
+    <string name="email">Correo electrónico</string>
+    <string name="email_hint">nombre@ejemplo.com</string>
+    <string name="point">Punto de degustación</string>
+    <string name="local">Local</string>
+    <string name="cart">Carrito</string>
+    <string name="acid">Quiero probar la cubierta ácida</string>
+    <string name="confirm">Confirmar inscripción</string>
+    <string name="required">Escribe tu nombre.</string>
+    <string name="invalid_email">Escribe un correo válido.</string>
+    <string name="choose_point">Selecciona un punto de degustación.</string>
+    <string name="accepted">Inscripción aceptada</string>
+    <string name="summary">Estos son los datos que elegiste para la degustación.</string>
+    <string name="result">Nombre: %1$s\nCorreo: %2$s\nPunto: %3$s\nCubierta ácida: %4$s</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+    <string name="edit">Volver al formulario</string>
+    <string name="exit">Salir</string>
+</resources>
