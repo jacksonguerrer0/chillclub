@@ -1,0 +1,10 @@
+<resources>
+    <color name="ink">#242424</color>
+    <color name="muted">#616161</color>
+    <color name="paper">#F7F7F7</color>
+    <color name="accent">#303030</color>
+    <color name="bar">#202020</color>
+    <color name="pale">#EAEAEA</color>
+    <color name="on_accent">#FFFFFF</color>
+    <color name="highlight">#1F000000</color>
+</resources>
